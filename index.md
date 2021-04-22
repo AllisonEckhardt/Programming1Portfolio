@@ -28,7 +28,7 @@ A interactive app that stores input and inserts it into a madlib. Made in repl.i
 
 Add Image
 
-Add Source Code
+Source Code [here](https://github.com/AllisonEckhardt/Programming1Portfolio/blob/gh-pages/src/MadLibs-2.cpp)
 
 
 ### Number Guessing Game
