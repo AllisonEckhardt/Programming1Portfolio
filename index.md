@@ -37,7 +37,7 @@ An app that lets you guess a number the app has randomly chosen by showing if yo
 
 Add Image
 
-Add source code
+Source Code: [here](https://github.com/AllisonEckhardt/Programming1Portfolio/blob/gh-pages/src/NumberGuessingGame.cpp)
 
 ### Pig Latin Translator
 
