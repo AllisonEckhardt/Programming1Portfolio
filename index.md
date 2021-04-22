@@ -31,7 +31,7 @@ Add Image
 Add Source Code
 
 
-## Number Guessing Game
+### Number Guessing Game
 
 An app that lets you guess a number the app has randomly chosen by showing if your guess is high or too low. Made in repl.it Winter 2021
 
@@ -39,7 +39,7 @@ Add Image
 
 Add source code
 
-## Pig Latin Translator
+### Pig Latin Translator
 
 A translator app that "translates" english words into pig latin
 
