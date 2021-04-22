@@ -18,7 +18,7 @@ Notes: multiplication and division buttons dont function properly
 
 Add Image
 
-And link to source code
+Source Code [here](https://github.com/AllisonEckhardt/Programming1Portfolio/tree/gh-pages/src/calculator)
 
 ## Repl C++ Projects:
 
