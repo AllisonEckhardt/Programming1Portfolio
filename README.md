@@ -14,12 +14,12 @@
 #### [Source Code:] https://github.com/AllisonEckhardt/MonsterHunterFinalProject/blob/main/src/README.md
 ### Madlibs 
 #### a madlibs app that use user-imported words into a custom madlib
-![] https://raw.githubusercontent.com/AllisonEckhardt/Programming1Portfolio/gh-pages/Images/Madlibs.png
+![] (https://raw.githubusercontent.com/AllisonEckhardt/Programming1Portfolio/gh-pages/Images/Madlibs.png)
 #### [Source Code: ]https://github.com/AllisonEckhardt/Programming1Portfolio/blob/gh-pages/src/MadLibs-2.cpp
 ### Number Guessing Game
 #### A game that takes a user-imported number and allows you to guess the number it chooses
 #### [Source Code: ]https://github.com/AllisonEckhardt/Programming1Portfolio/blob/gh-pages/src/NumberGuessingGame.cpp
 ### Pig Latin translator
 #### An app that takes a word and converts it into pig latin
-![] https://raw.githubusercontent.com/AllisonEckhardt/Programming1Portfolio/gh-pages/Images/Pig%20Latin%20Translator.png
+![] (https://raw.githubusercontent.com/AllisonEckhardt/Programming1Portfolio/gh-pages/Images/Pig%20Latin%20Translator.png)
 #### [Source Code: ]https://github.com/AllisonEckhardt/Programming1Portfolio/blob/gh-pages/src/PigLatinTranslator.cpp
