@@ -23,3 +23,5 @@
 #### An app that takes a word and converts it into pig latin
 ![] (https://raw.githubusercontent.com/AllisonEckhardt/Programming1Portfolio/gh-pages/Images/Pig%20Latin%20Translator.png)
 #### [Source Code: ]https://github.com/AllisonEckhardt/Programming1Portfolio/blob/gh-pages/src/PigLatinTranslator.cpp
+### Year Two Final Project
+#### An application that uses Ternary Statements, GUI, Enhanced for Loops, and Sorting/Filtering
