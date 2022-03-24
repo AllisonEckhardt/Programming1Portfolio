@@ -1,4 +1,4 @@
-# Programming1Portfolio
+# ProgrammingPortfolio
 ## Processing projects
 ### Space Game
 #### An oop top-scrolling shooter game
