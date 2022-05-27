@@ -1,4 +1,23 @@
-# Allison's programming portfolio 2020-2021
+# Allison's programming portfolio 2020-2022
+
+## Year 2
+### Final Project
+
+#### An application that uses Ternary Statements, GUI, Enhanced for Loops, and Sorting/Filtering
+
+![](https://github.com/AllisonEckhardt/ProgrammingPortfolio/blob/gh-pages/Images/Screenshot%202022-03-24%2010.59.12%20AM.png)
+
+#### [Source Code: ]https://github.com/AllisonEckhardt/Finalprojectyear2/tree/gh-pages/src
+
+### Group Project 
+## PLACEHOLDER
+
+### Sorting Practice
+![](https://github.com/AllisonEckhardt/Programming2/blob/main/src/Sorting.png)
+
+### Recursions
+![](https://github.com/AllisonEckhardt/Programming2/blob/main/src/Recursion.png)
+
 
 ## Processing Projects:
 
